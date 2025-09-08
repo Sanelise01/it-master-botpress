@@ -1,6 +1,6 @@
 # 🤖 IT Master Chatbot (Botpress) – AI Learning Companion
 
-![IT Master Chatbot Preview](images/it-master-chatbot.png)
+![IT Master Chatbot Preview](it-master-chatbot.png)
 
 **Interactive Chatbot Prototype:**  
 [👉 Try IT Master Chatbot](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/16/10/20250516102421-ZCIOC18F.json)  
